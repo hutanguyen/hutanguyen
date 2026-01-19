@@ -1,0 +1,7 @@
+{
+  "name": "QR Pro - Tạo và Quét Mã",
+  "description": "Ứng dụng tạo mã QR tùy chỉnh và quét mã QR tốc độ cao, hỗ trợ chèn logo và tùy chỉnh giao diện.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
